@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\bin\Debug\KecskepasztorSok.exe.config
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\bin\Debug\KecskepasztorSok.exe
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\bin\Debug\KecskepasztorSok.pdb
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\obj\Debug\KecskepasztorSok.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\obj\Debug\KecskepasztorSok.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\obj\Debug\KecskepasztorSok.exe
+C:\Users\Soma\Documents\C#2\KecskepasztorSok\KecskepasztorSok\obj\Debug\KecskepasztorSok.pdb
